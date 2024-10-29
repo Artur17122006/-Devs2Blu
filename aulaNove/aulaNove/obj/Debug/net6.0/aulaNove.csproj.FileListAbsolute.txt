@@ -1,0 +1,15 @@
+C:\Users\artur.cavalcante\OneDrive - SENAC-SC\Documentos\C#\aulaNove\aulaNove\obj\Debug\net6.0\aulaNove.csproj.AssemblyReference.cache
+C:\Users\artur.cavalcante\OneDrive - SENAC-SC\Documentos\C#\aulaNove\aulaNove\obj\Debug\net6.0\aulaNove.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artur.cavalcante\OneDrive - SENAC-SC\Documentos\C#\aulaNove\aulaNove\obj\Debug\net6.0\aulaNove.AssemblyInfoInputs.cache
+C:\Users\artur.cavalcante\OneDrive - SENAC-SC\Documentos\C#\aulaNove\aulaNove\obj\Debug\net6.0\aulaNove.AssemblyInfo.cs
+C:\Users\artur.cavalcante\OneDrive - SENAC-SC\Documentos\C#\aulaNove\aulaNove\obj\Debug\net6.0\aulaNove.csproj.CoreCompileInputs.cache
+C:\Users\artur.cavalcante\OneDrive - SENAC-SC\Documentos\C#\aulaNove\aulaNove\bin\Debug\net6.0\aulaNove.exe
+C:\Users\artur.cavalcante\OneDrive - SENAC-SC\Documentos\C#\aulaNove\aulaNove\bin\Debug\net6.0\aulaNove.deps.json
+C:\Users\artur.cavalcante\OneDrive - SENAC-SC\Documentos\C#\aulaNove\aulaNove\bin\Debug\net6.0\aulaNove.runtimeconfig.json
+C:\Users\artur.cavalcante\OneDrive - SENAC-SC\Documentos\C#\aulaNove\aulaNove\bin\Debug\net6.0\aulaNove.dll
+C:\Users\artur.cavalcante\OneDrive - SENAC-SC\Documentos\C#\aulaNove\aulaNove\bin\Debug\net6.0\aulaNove.pdb
+C:\Users\artur.cavalcante\OneDrive - SENAC-SC\Documentos\C#\aulaNove\aulaNove\obj\Debug\net6.0\aulaNove.dll
+C:\Users\artur.cavalcante\OneDrive - SENAC-SC\Documentos\C#\aulaNove\aulaNove\obj\Debug\net6.0\refint\aulaNove.dll
+C:\Users\artur.cavalcante\OneDrive - SENAC-SC\Documentos\C#\aulaNove\aulaNove\obj\Debug\net6.0\aulaNove.pdb
+C:\Users\artur.cavalcante\OneDrive - SENAC-SC\Documentos\C#\aulaNove\aulaNove\obj\Debug\net6.0\aulaNove.genruntimeconfig.cache
+C:\Users\artur.cavalcante\OneDrive - SENAC-SC\Documentos\C#\aulaNove\aulaNove\obj\Debug\net6.0\ref\aulaNove.dll
